@@ -28,3 +28,8 @@ type MyStruct struct {
 ```
 
 See the examples in the documentation for more information.
+
+[ci-badge]:            https://github.com/dacohen/moccasin/actions/workflows/test.yaml/badge.svg
+[ci-runs]:             https://github.com/dacohen/moccasin/actions
+[reference-badge]:     https://pkg.go.dev/badge/github.com/dacohen/moccasin.svg
+[reference]:           https://pkg.go.dev/github.com/dacohen/moccasin
