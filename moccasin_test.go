@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dacohen/moccasin"
+	"github.com/rainforestpay/moccasin"
 	"github.com/stretchr/testify/assert"
 )
 

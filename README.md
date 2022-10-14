@@ -11,7 +11,7 @@ We've got you covered: [Why Moccasin?](docs/why_moccasin.md)
 ## Installation
 Install as you would any other go package:
 ```
-go get github.com/dacohen/moccasin
+go get github.com/rainforestpay/moccasin
 ```
 
 ## Using
@@ -29,7 +29,7 @@ type MyStruct struct {
 
 See the examples in the documentation for more information.
 
-[ci-badge]:            https://github.com/dacohen/moccasin/actions/workflows/test.yaml/badge.svg
-[ci-runs]:             https://github.com/dacohen/moccasin/actions
-[reference-badge]:     https://pkg.go.dev/badge/github.com/dacohen/moccasin.svg
-[reference]:           https://pkg.go.dev/github.com/dacohen/moccasin
+[ci-badge]:            https://github.com/rainforestpay/moccasin/actions/workflows/test.yaml/badge.svg
+[ci-runs]:             https://github.com/rainforestpay/moccasin/actions
+[reference-badge]:     https://pkg.go.dev/badge/github.com/rainforestpay/moccasin.svg
+[reference]:           https://pkg.go.dev/github.com/rainforestpay/moccasin

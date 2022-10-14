@@ -1,4 +1,4 @@
-module github.com/dacohen/moccasin
+module github.com/rainforestpay/moccasin
 
 go 1.18
 
